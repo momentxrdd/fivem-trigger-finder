@@ -3,9 +3,9 @@
 A desktop app that scans your FiveM server and lists all triggers (events) with filtering options.  
 
 ## Features  
-- 🔍 **Folder Selection** – Choose your FiveM server directory  
-- 📂 **Auto Scan** – Scans all `.lua` and `.js` files  
-- 🎯 **Trigger Detection** – Finds:  
+- **Folder Selection** – Choose your FiveM server directory  
+- **Auto Scan** – Scans all `.lua` and `.js` files  
+- **Trigger Detection** – Finds:  
   - TriggerEvent  
   - TriggerServerEvent  
   - RegisterNetEvent  
@@ -13,9 +13,9 @@ A desktop app that scans your FiveM server and lists all triggers (events) with 
   - RegisterServerEvent  
   - RegisterCommand  
   - ESX & QBCore Callbacks  
-- 🔎 **Advanced Search** – Filter by name, path, or type  
-- ⭐ **Custom Keywords** – Highlight triggers with predefined keywords  
-- 📊 **Detailed Info** – Shows file path, line number, and trigger type  
+- **Advanced Search** – Filter by name, path, or type  
+- **Custom Keywords** – Highlight triggers with predefined keywords  
+- **Detailed Info** – Shows file path, line number, and trigger type  
 
 ## Setup  
 ### Requirements  
